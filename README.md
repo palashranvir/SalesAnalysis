@@ -1,1 +1,1 @@
-# FNP.sales-analysis
+# sales-analysis
